@@ -2002,7 +2002,7 @@ h2 {
 			button.special:active,
 			.button.special:active {
 				background-color: #00b4b5;
-                border: 1px solid #ffffff;
+
 			}
 
 /* Form */
@@ -3522,7 +3522,7 @@ h2 {
 /* Banner */
 
 	#banner {
-		background-color: #429EA6;
+		background-color: #3587A4;
 		color: #ffffff;
 		padding: 8em 0 6em 0;
 		text-align: center;
