@@ -1794,10 +1794,12 @@
 }
 #sec1 {
     background: #79BCB8;
-    text-align: center;
 }
 #sec1 li {
     color:#fff;
+}
+#sec1 a {
+    color: #7A7978
 }
 
 /* Box */
@@ -3532,6 +3534,10 @@
 		padding: 8em 0 6em 0;
 		text-align: center;
 	}
+#banner p {
+    padding-left: 50px;
+    padding-right: 50px;
+}
 
 		#banner input, #banner select, #banner textarea {
 			color: #ffffff;
