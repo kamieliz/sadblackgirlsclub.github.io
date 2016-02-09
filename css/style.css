@@ -2002,7 +2002,7 @@ h2 {
 			button.special:active,
 			.button.special:active {
 				background-color: #00b4b5;
-                border: #ffffff;
+                border: 1px solid #ffffff;
 			}
 
 /* Form */
