@@ -2002,6 +2002,7 @@ h2 {
 			button.special:active,
 			.button.special:active {
 				background-color: #00b4b5;
+                border: #ffffff;
 			}
 
 /* Form */
