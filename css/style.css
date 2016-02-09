@@ -1769,7 +1769,7 @@
 		color: #555;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h4, h5, h6 {
 		color: #555;
 	}
 
@@ -1785,11 +1785,19 @@
 	hr {
 		border-bottom-color: #e3e3e3;
 	}
-sec {
-    background-color: #3066BE;
-}
-h2 {
+/* decorative changes */
+    #sec {
+    background: #87CBAC;
+     }
+    h2 {
     text-align: center;
+}
+#sec1 {
+    background: #79BCB8;
+    text-align: center;
+}
+#sec1 li {
+    color:#fff;
 }
 
 /* Box */
@@ -3010,7 +3018,7 @@ h2 {
 				}
 
 		.wrapper.style2 {
-			background-color: #f7f7f7;
+			background-color: #7A7978;
 			color: #444;
 		}
 
@@ -3022,12 +3030,15 @@ h2 {
 				color: #00cdcf;
 			}
 
+.wrapper.style2 p {
+    color: #fff;
+}
 			.wrapper.style2 strong, .wrapper.style2 b {
 				color: #555;
 			}
 
 			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
-				color: #555;
+				color: #fff;
 			}
 
 			.wrapper.style2 blockquote {
