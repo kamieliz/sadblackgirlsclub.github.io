@@ -1802,6 +1802,10 @@
     color: #7A7978
 }
 
+#two li {
+    display: inline;
+}
+
 /* Box */
 
 	.box {
